@@ -1,0 +1,11 @@
+# Dependencias (Nunca se suben, se instalan con npm install)
+node_modules/
+
+# Archivos de entorno (Si llegas a usar contraseñas o llaves)
+.env
+
+# Archivos del sistema y logs
+npm-debug.log*
+yarn-error.log*
+.DS_Store
+dist/
